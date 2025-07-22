@@ -36,7 +36,7 @@ Below, we provide a summary of the devices that may be used with the web applica
 
 This app was built as an open-source platform. For project maintenance and documentation, you may find some information in the developer's section of this guide and check out the full code powering the web application at the following GitHub.
 
-{% embed url="https://github.com/esromerog/You-Quantified/tree/main" %}
+{% embed url="https://github.com/mindhiveproject/You-Quantified" %}
 
 As an open-source platform, this app leverages other technologies, such as [P5.js](https://p5js.org). You may find more information as you dive into this documentation.
 
