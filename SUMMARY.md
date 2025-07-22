@@ -1,8 +1,8 @@
 # Table of contents
 
-* [👋 Introduction to You: Quantified](README.md)
+* [👋 You: Quantified in the Classroom](README.md)
+* [📖 Educational Resources](educational-resources.md)
 * [⚡ Quick Start](quick-start.md)
-* [📖 Educational resources](educational-resources.md)
 
 ## For Developers
 
