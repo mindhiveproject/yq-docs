@@ -16,6 +16,7 @@
 * [File Upload](devices/file-upload.md)
 * [Muse](devices/muse.md)
 * [EMOTIV](devices/emotiv.md)
+* [EmotiBit](devices/emotibit.md)
 * [Face Landmarks](devices/face-landmarks.md)
 * [Pose Landmarks](devices/pose-landmarks.md)
 * [Video Heart Rate](devices/video-heart-rate.md)
